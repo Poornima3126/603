@@ -6,8 +6,6 @@ RDBMS stores data in the form of rows and columns and uses sql for managing and 
 
 ### Types of NoSql
 
-![Nosql](https://github.com/Poornima3126/603/assets/43727585/cfcc2891-3018-43ea-8b7a-b66c5eda726c)
-
 #### Key-value store: 
   key-value databases defines a key and provide a matching value which can later be retrieved the same way by supplying the key.
 Examples: Redis, Memcached, Riak.
@@ -23,6 +21,8 @@ Examples: MongoDB, Couchbase, Apache CouchDB.
 #### Graph database: 
   It is a subcategory of document store, difference is graph databases add an extra layer to the document model by highlighting the relationships between individual documents.
  Examples: Neo4j, ArangoDB, OrientDB.
+
+ ![Nosql](https://github.com/Poornima3126/603/assets/43727585/cfcc2891-3018-43ea-8b7a-b66c5eda726c)
  
 ## Data Lakehouse
 A data lakehouse is a new, open data management architecture that combines the flexibility, cost-efficiency. 
