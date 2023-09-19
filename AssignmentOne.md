@@ -43,3 +43,8 @@ A data lakehouse is a new, open data management architecture that combines the f
 Mostly used in decision support and business intelligence applications, but it is not suited for handling unstructured data, semi-structured data, and data with high variety, velocity, and volume
 #### Data Lakes
 Data lakes handle raw data but has limitations like data qulaity, consistency
+
+### Sources:
+   1. https://www.digitalocean.com/community/tutorials/a-comparison-of-nosql-database-management-systems-and-models
+   2. https://www.databricks.com/glossary/data-lakehouse
+
